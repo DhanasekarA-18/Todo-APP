@@ -1,5 +1,5 @@
 # todolist
 Todolist using React App
 Go the teriminal and type 
-cd todolist
+cd todo
 npm start
